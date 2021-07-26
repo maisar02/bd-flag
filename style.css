@@ -1,0 +1,39 @@
+body{
+  background: grey;
+}
+.sobuj{
+    
+    width: 300px;
+    height: 200px;
+    background: green;
+    position: relative;
+    top: 10px;
+    margin: auto;
+    
+}
+.lal{
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    border-radius: 50%;
+}
+.name{
+    text-align: center;
+    font-size: 20px;
+    text-shadow: 3px 3px 3px red;
+}
+hr{
+     height: 10px;
+     background: lime;
+     border-radius: 2px;
+     outline: 2px solid red;
+     
+}
+.paragraph{
+    text-align: justify;
+    font-family: tahoma;
+    
+}
